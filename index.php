@@ -92,11 +92,11 @@ session_start();
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="100">
             <img src="assets/img/Logoice.png" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="400">
             <img src="assets/img/logonham.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6 " data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-2 col-md-4 col-6 " data-aos="zoom-in" data-aos-delay="500">
             <img src="assets/img/logonuoc.png" class="img-fluid" alt="">
           </div>
 
@@ -115,7 +115,7 @@ session_start();
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/img/Genshin_Impact_logo.png" class="d-block w-100" alt="...">
+            <img src="assets/img/Genshin_Impact_logo.png" class="d-block w-10" alt="...">
           </div>
           <div class="carousel-item">
             <img src="assets/img/logogen2.png" class="d-block w-50" alt="...">
