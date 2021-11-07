@@ -118,10 +118,10 @@ session_start();
             <img src="assets/img/Genshin_Impact_logo.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/logogen2.png" class="d-block w-100" alt="...">
+            <img src="assets/img/logogen2.png" class="d-block w-50" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/Genshin_Impact_logo.png" class="d-block w-100" alt="...">
+            <img src="assets/img/Genshin_Impact_logo.png" class="d-block w-50" alt="...">
           </div>
         </div>
       </div>
